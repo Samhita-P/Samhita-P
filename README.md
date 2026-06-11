@@ -106,8 +106,10 @@ Real-time cash delivery platform.
 
 ## 📫 Connect With Me
 
-📧 [samhita.prashanth@gmail.com](mailto:samhita.prashanth@gmail.com)
+📧 samhita.prashanth@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/samhita-prashanth-153437287
+💼 LinkedIn:
+https://linkedin.com/in/samhita-prashanth-153437287
 
-🌐 Portfolio: tech-portfolio-chi.vercel.app
+🌐 Portfolio:
+https://tech-portfolio-chi.vercel.app
