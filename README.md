@@ -97,6 +97,13 @@ Real-time cash delivery platform.
 * Team Lead for Major and Minor Engineering Projects
 * Experience across Development, Testing, and AI domains
 
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samhita-P&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samhita-P&layout=compact&theme=github_dark)
+
 ## 📫 Connect With Me
 
 📧 [samhita.prashanth@gmail.com](mailto:samhita.prashanth@gmail.com)
