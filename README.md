@@ -7,8 +7,6 @@
 💼 Associate Software Engineering Intern (SDET) @ Mphasis
 🚀 Passionate about Backend Development, Distributed Systems, AI-Powered Applications, and Software Quality Engineering
 
----
-
 ## 👩‍💻 About Me
 
 I am a Computer Science Engineering student graduating in 2026 with hands-on industry experience in Software Development, Backend Engineering, Full-Stack Development, and Software Testing.
@@ -21,8 +19,6 @@ My experience spans:
 * Database Design with PostgreSQL and MongoDB
 * Software Testing using Selenium, TestNG, Cucumber, and Agile practices
 * AI/ML Applications using TensorFlow, OpenCV, and Scikit-learn
-
----
 
 ## 🛠️ Tech Stack
 
@@ -49,8 +45,6 @@ Docker • Jenkins • Linux • Git • GitHub • Postman • Jira • Figma
 ### Testing
 
 Selenium • TestNG • Cucumber • Manual Testing • STLC
-
----
 
 ## 🚀 Featured Projects
 
@@ -90,15 +84,11 @@ Real-time cash delivery platform.
 * Firebase tracking
 * Twilio notifications
 
----
-
 ## 📚 Research Publications
 
 📄 KSIT Nexus: A Unified Digital Campus Platform (IJARCCE, 2025)
 
 📄 Native Aura: Empowering Karnataka's Tribal Communities via E-Commerce (IJISRT, 2025)
-
----
 
 ## 🏆 Achievements
 
@@ -106,8 +96,6 @@ Real-time cash delivery platform.
 * Excellent Performance Award at Sisail Pvt Ltd
 * Team Lead for Major and Minor Engineering Projects
 * Experience across Development, Testing, and AI domains
-
----
 
 ## 📫 Connect With Me
 
